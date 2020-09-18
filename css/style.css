@@ -2,7 +2,7 @@
 @import "reset.css";
 
 body {
-  /*background: url("../assets/images/home_agency.jpg") no-repeat;*/
+  background: url("../assets/images/home_agency.jpg") no-repeat;
   background-size: cover;
   height: 558vh;
 }
@@ -149,9 +149,7 @@ header {
 }
 .gallery {
   font-family: 'roboto', sans serif;
-
   height: 215vh;
-  /*background: rgba(255,0,0,0.5);*/
 }
 .gallery--title {
   padding-top: 7.2vh;
@@ -178,4 +176,21 @@ header {
 }
 .pic-10, .pic-11 {
   top:-37vh;
+}
+.projects {
+  height: 54vh;
+  font-family: 'roboto', sans serif;
+}
+.projects--title {
+  padding-top: 5.3vh;
+  font-size: 2.3vh;
+  left: 2vw;
+  letter-spacing:0.2vw;
+}
+.projects--logos {
+  padding-top: 16vh;
+  padding-left: 22vw;
+}
+.logo {
+  margin-right: 4.5vw;
 }
