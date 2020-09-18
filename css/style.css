@@ -2,7 +2,7 @@
 @import "reset.css";
 
 body {
-  background: url("../assets/images/home_agency.jpg") no-repeat;
+  /*background: url("../assets/images/home_agency.jpg") no-repeat;*/
   background-size: cover;
   height: 558vh;
 }
@@ -146,4 +146,36 @@ header {
   height: 15vh;
   top: 0.9vh;
   border-left: 2px solid black;
+}
+.gallery {
+  font-family: 'roboto', sans serif;
+
+  height: 215vh;
+  /*background: rgba(255,0,0,0.5);*/
+}
+.gallery--title {
+  padding-top: 7.2vh;
+  font-size: 2.3vh;
+  left: 2vw;
+  letter-spacing: 0.6vw;
+  color: grey;
+}
+.gallery--span {
+  font-size: 6.7vh;
+  padding-top: 3.5vh;
+  left: 2vw;
+  letter-spacing: 0.25vw;
+}
+.gallery--menu {
+  padding-top: 6.3vh;
+  left: 1.5vw;
+}
+.p-2 {
+  margin-right: 1.5vw;
+}
+.gallery--content-pics {
+  margin: 15px;
+}
+.pic-10, .pic-11 {
+  top:-37vh;
 }
