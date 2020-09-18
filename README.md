@@ -13,6 +13,9 @@ This template is made with one header, two sections, a picture gallery and lastl
 	* Slogan
 * About us
 * What we do
+* Gallery
+	* Sort
+	* Pictures
 
 ## Features description
 ### Header
@@ -27,3 +30,9 @@ The slogan is made to present the website with only few words
 The about us section allow the website's owner to speak about himself
 ### What we do 
 This section is about all the previous projects that the agency made
+### Gallery 
+The gallery is the place where you can display in an ordered way your pictures
+##### Sort
+There you can choose which picture you do want to see by clicking on a keyword
+##### Pictures
+This is the list of all of you pictures
