@@ -12,6 +12,7 @@ This template is made with one header, two sections, a picture gallery and lastl
 	* Burger menu
 	* Slogan
 * About us
+* What we do
 
 ## Features description
 ### Header
@@ -24,3 +25,5 @@ The burger menu is hidden by a button. The user have to click on this to open a 
 The slogan is made to present the website with only few words
 ### About us
 The about us section allow the website's owner to speak about himself
+### What we do 
+This section is about all the previous projects that the agency made
