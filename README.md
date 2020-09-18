@@ -17,6 +17,9 @@ This template is made with one header, two sections, a picture gallery and lastl
 	* Sort
 	* Pictures
 * All projects
+* Footer
+	* Logos
+	* Copyrights
 
 ## Features description
 ### Header
@@ -39,3 +42,9 @@ There you can choose which picture you do want to see by clicking on a keyword
 This is the list of all of you pictures
 ### All projects
 Here you can consult all of our projects
+### Footer
+Ends the page with our coordinates
+##### Logos
+Follow us on our social medias !
+##### Copyrights
+This is the copyright of our template
