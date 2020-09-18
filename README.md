@@ -11,6 +11,7 @@ This template is made with one header, two sections, a picture gallery and lastl
 	* Logo
 	* Burger menu
 	* Slogan
+* About us
 
 ## Features description
 ### Header
@@ -21,3 +22,5 @@ You can identify the website's owner by seeing the logo
 The burger menu is hidden by a button. The user have to click on this to open a nav menu
 ##### Slogan
 The slogan is made to present the website with only few words
+### About us
+The about us section allow the website's owner to speak about himself
