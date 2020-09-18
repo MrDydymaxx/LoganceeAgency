@@ -16,6 +16,7 @@ This template is made with one header, two sections, a picture gallery and lastl
 * Gallery
 	* Sort
 	* Pictures
+* All projects
 
 ## Features description
 ### Header
@@ -36,3 +37,5 @@ The gallery is the place where you can display in an ordered way your pictures
 There you can choose which picture you do want to see by clicking on a keyword
 ##### Pictures
 This is the list of all of you pictures
+### All projects
+Here you can consult all of our projects
