@@ -102,3 +102,44 @@ header {
   height: 15vh;
   border-right: 2px solid black;
 }
+.whatWeDo {
+  height: 75vh;
+  font-family: 'roboto', sans serif;
+}
+.whatWeDo--content {
+  top: 1vw;
+  height: 71vh;
+}
+.whatWeDo--content-image {
+  left: 2vw;
+  top: 1.5vh;
+}
+.whatWeDo--content-image img {
+  height: 54vh;
+  width: auto;
+}
+.whatWeDo--content-title {
+  padding-top: 9vh;
+  font-size: 2.5vh;
+  letter-spacing: 0.55vw;
+}
+.whatWeDo--content-span {
+  font-size: 7vh;
+  top: -0.5vh;
+  left: -0.8vw;
+  letter-spacing: 0.2vw;
+}
+.whatWeDo--content-description {
+  line-height: 2.35vh;
+}
+.whatWeDo--content-number {
+  top: 5.3vh;
+  font-size: 2.5vh;
+  left:-1vw; 
+}
+.whatWeDo--content-image-line {
+  left: 2.8vw;
+  height: 15vh;
+  top: 0.9vh;
+  border-left: 2px solid black;
+}
