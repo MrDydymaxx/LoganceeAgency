@@ -1,11 +1,6 @@
 @charset "utf-8";
 @import "reset.css";
 
-body {
-  background: url("../assets/images/home_agency.jpg") no-repeat;
-  background-size: cover;
-  height: 558vh;
-}
 header {
   background: url("../assets/images/banner.jpg") no-repeat;
   background-size: cover;
@@ -193,4 +188,17 @@ header {
 }
 .logo {
   margin-right: 4.5vw;
+}
+.footer {
+  height: 16vh;
+  color:white;
+  background: rgb(18,18,18);
+}
+.footer--content {
+  padding-top: 2.5vh;
+  font-size: 2vh;
+}
+.footer--content-sm {
+  padding-top: 4vh;
+  font-size: 3vh;
 }
