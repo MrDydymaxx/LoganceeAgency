@@ -9,9 +9,9 @@ body {
 header {
   background: url("../assets/images/banner.jpg") no-repeat;
   background-size: cover;
-  height: 104vh;
-  opacity: 0.5;
-  font-family: 'roboto';
+  height: 98vh;
+  /*opacity: 0.5;*/
+  font-family: 'roboto', sans serif;
   color: #ffffff;
   font-weight: bold;
   filter: grayscale(1);
@@ -24,7 +24,6 @@ header {
 .header--menu {
   padding: 3.5vh 0px 0px 2.8vw ;
   letter-spacing: 2px;
-  letter-spacing: 2px;
   font-size: 3vh;
 }
 .header--menu {
@@ -32,23 +31,74 @@ header {
   font-size: 5vh;
 }
 .header--title {
-	top:23.5vh;
-	left:2.8vw;
+	top: 22vh;
+	left: 2.8vw;
 }
 .header--title-greetings {
-	font-size:2.5vh;
+	font-size: 2.2vh;
 }
 .header--title-name {
-	padding-top:8.5vh;
-	font-size:7.5vh;
-	line-height:6.5vh;
+	padding-top: 8vh;
+	font-size: 7.35vh;
+	line-height: 6.2vh;
 }
 .header--title-slogan {
 	padding-top: 3vh;
 	line-height: 2.5vh;
 }
 .header--title-arrow {
-	font-size:3.5vh;
-	padding-top:6vh;
+	font-size: 3.5vh;
+	padding-top: 6vh;
 	padding-left: 0.5vw;
+}
+.aboutUs {
+  height: 100vh;
+  font-family: 'roboto', sans serif;
+
+}
+.aboutUs--line-top {
+  border-right: 2px solid black;
+  height: 15vh;
+  left: 3vw;
+}
+.aboutUs--content {
+  top: 5vw;
+  height: 70vh;
+}
+.aboutUs--content-title {
+  top: 7.9vh;
+  left: 2vw;
+  font-size: 2.5vh;
+  letter-spacing: 0.55vw;
+}
+.aboutUs--content-span {
+  padding-top: 3.5vh;
+  top: 1.75vh;
+  left: 2vw; 
+  font-size: 7vh;
+  letter-spacing: 0.1vw;
+}
+.aboutUs--content-description {
+  padding-top: 2.5vh;
+  left: 0.3vw;
+  line-height: 2.35vh;
+}
+.aboutUs--content-line {
+  top: 3.2vh;
+  border-top: 2px solid black;
+}
+.aboutUs--content-image img {
+  height: 54vh;
+  width: auto;
+}
+.aboutUs--content-number {
+  top: 5vh;
+  left: 2vw;
+  font-size: 2vh;
+}
+.aboutUs--content-image-line {
+  left: 2.6vw;
+  top:-0.3vh;
+  height: 15vh;
+  border-right: 2px solid black;
 }
